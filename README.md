@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 impress.js
 ============
 
@@ -301,3 +302,7 @@ Copyright 2011-2012 Bartek Szopka
 Released under the MIT and GPL (version 2 or later) Licenses.
 
 
+=======
+goflsie-public
+==============
+>>>>>>> 498b7d1aa26d8324bb1985f2019c8efd270abae2
